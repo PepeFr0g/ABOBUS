@@ -16,6 +16,7 @@ body{
     
 }
 .site-menu a:hover {
+    transition: 700ms;
 	color: whitesmoke;
 }
 .vacation-request {
@@ -115,7 +116,8 @@ body{
     background: #ffffff;   
     background-image: url(../IMG/right-arrow-dark.png);
     background-repeat: no-repeat;
-    background-position: 200px;;
+    background-position: 200px;
+    transition: 300ms;
 }
 .features{
     background-color: #0E0D0B;
@@ -130,7 +132,11 @@ body{
     background-position: 150px;
     background-repeat: no-repeat;
     text-align: left;
-
+}
+.btn-grey a{
+    text-decoration: none;
+    list-style: none;
+    color: #f0f0f0;
 }
 .btn-grey:hover{
     text-align: left;
@@ -140,6 +146,7 @@ body{
     background-repeat: no-repeat;
     background-position: 150px;
     opacity: 60%;
+    transition: 200ms;
 
 }
 .feature-made-in-russia
@@ -196,7 +203,15 @@ body{
     padding: 20px;
 }
 .half-field{
-    width: 200px;
+    width: 210px;
+}
+.half-field:last-child{
+    width: 215px;
+    padding-left: 50px;
+}
+.half{
+    display: flex;
+
 }
 .columns-container .left-column {
     width: 440px;

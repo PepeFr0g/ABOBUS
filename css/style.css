@@ -236,6 +236,18 @@ body{
     color: gray;
     
 }
+@media (max-width:768px) {
+    /*
+      ... правила для планшетов ...
+      выводим карточки товаров по 2 в ряд
+    */
+  }
+  @media (max-width:320px) {
+    /*
+      ... правила для смартфонов ...
+      выводим карточки товаров по 1 в ряд
+    */
+  }
 .footer-columns-container {
     display: flex;
     

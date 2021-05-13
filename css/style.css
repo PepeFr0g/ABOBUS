@@ -106,7 +106,7 @@ body{
     vertical-align: top;
     color: #222222;
     border: none;
-    background-image: url(../IMG/right-arrow-dark.png);
+    background-image: url(../img/right-arrow-dark.png);
     background-repeat: no-repeat;
     background-position: 200px;;
     border-radius: 50px;
@@ -114,7 +114,7 @@ body{
 }
 .btn-yellow:hover {
     background: #ffffff;   
-    background-image: url(../IMG/right-arrow-dark.png);
+    background-image: url(../img/right-arrow-dark.png);
     background-repeat: no-repeat;
     background-position: 200px;
     transition: 300ms;
@@ -128,7 +128,7 @@ body{
 .btn-grey{
     color: #f0f0f0;
     background-color: #000000;
-    background-image: url(../IMG/right-arrow-white.png);
+    background-image: url(../img/right-arrow-white.png);
     background-position: 150px;
     background-repeat: no-repeat;
     text-align: left;
@@ -142,7 +142,7 @@ body{
     text-align: left;
     color: #f0f0f0;
     background-color: #443e3e;
-    background-image: url(../IMG/right-arrow-white.png);
+    background-image: url(../img/right-arrow-white.png);
     background-repeat: no-repeat;
     background-position: 150px;
     opacity: 60%;
@@ -151,22 +151,22 @@ body{
 }
 .feature-made-in-russia
 {
-    background-image: url(../IMG/advantage-icon-1.png);
+    background-image: url(../img/advantage-icon-1.png);
     background-repeat: no-repeat;
     background-size: auto;
 }
 .feature-food{
-    background-image: url(../IMG/advantage-icon-2.png);
+    background-image: url(../img/advantage-icon-2.png);
     background-repeat: no-repeat;
     background-size: auto;
 }
 .feature-pilots{
-    background-image: url(../IMG/advantage-icon-3.png);
+    background-image: url(../img/advantage-icon-3.png);
     background-repeat: no-repeat;
     background-size: auto;
 }
 .feature-moon-rover{
-    background-image: url(../IMG/advantage-icon-4.png);
+    background-image: url(../img/advantage-icon-4.png);
     background-repeat: no-repeat;
     background-size: auto;
 }
